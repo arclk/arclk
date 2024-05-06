@@ -1,6 +1,6 @@
 ### Hey! I'm [@arclk](https://github.com/arclk) (Arcangelo Alberico) 👋
 
-I'm a Full Stack Developer, Data Engineer and AI student based in Bologna, Italy. 🇮🇹
+I'm a Full Stack Developer, Data Engineer and ML & AI Engineer based in Bologna, Italy. 🇮🇹
 
 I enjoy building applications with Deep Learning/Machine Learning models, distributed systems architecture, SQL and NoSQL databases, containerization with Docker, and modern frameworks/languages like Python, Angular, React for both backend APIs and frontend development. 🤖
 
